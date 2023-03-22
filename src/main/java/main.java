@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class main {
+//import  JavaMail u
+import javax.mail.*;
+public class main {
 }
